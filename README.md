@@ -1,3 +1,9 @@
+![Excel](https://img.shields.io/badge/Excel-SLA%20Analysis-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Visualization-orange)
+![SQL](https://img.shields.io/badge/SQL-KPI%20Logic-yellow)
+![BFSI](https://img.shields.io/badge/Domain-Operations-blueviolet)
+
+
 # SLA Compliance Analysis Project – Ajay Sharnagat
 
 This project tracks ticket resolution times across multiple teams and highlights SLA compliance performance.
