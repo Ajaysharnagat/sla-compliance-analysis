@@ -1,4 +1,4 @@
-# SLA Compliance Dashboard Project – Ajay Sharnagat
+# SLA Compliance Analysis Project – Ajay Sharnagat
 
 This project tracks ticket resolution times across multiple teams and highlights SLA compliance performance.
 
