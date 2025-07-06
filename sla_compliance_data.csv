@@ -1,0 +1,7 @@
+Ticket_ID,Team,Priority,Start_Date,End_Date,SLA_Target_Hours,Resolution_Hours,SLA_Breached
+T001,Policy,High,2023-06-01,2023-06-02,24,24.0,False
+T002,Claims,Medium,2023-06-02,2023-06-05,48,72.0,True
+T003,Policy,Low,2023-06-03,2023-06-05,72,48.0,False
+T004,Support,High,2023-06-01,2023-06-03,24,48.0,True
+T005,Claims,High,2023-06-04,2023-06-08,24,96.0,True
+T006,Support,Low,2023-06-03,2023-06-05,72,48.0,False
